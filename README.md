@@ -1,7 +1,6 @@
-## ebooks
+## Ebook
 
-Ebooks To Share.
-
+Ebook To Share.
 
 ### Lists
 

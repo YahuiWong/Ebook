@@ -1,16 +1,8 @@
 #!/bin/bash
 
-template=`
-## Ebook
-
-Ebook To Share.
-
-### Lists
-
-`
+sed -i '7, $d' ./README.md
 
 for f in `ls ./ebooks`
 do
-    echo $template > ./README.md
     echo "- [$f](./ebooks/$f)" >> ./README.md
 done
