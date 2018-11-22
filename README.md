@@ -4,6 +4,7 @@ Ebook To Share.
 
 ### Lists
 
+- [cplusplus-tutorial.pdf](./ebooks/cplusplus-tutorial.pdf)
 - [deep-in-c-slides.pdf](./ebooks/deep-in-c-slides.pdf)
 - [develop-the-servo-web-browser-engine-using-rust.pdf](./ebooks/develop-the-servo-web-browser-engine-using-rust.pdf)
 - [ElasticSearch中文手册.pdf](./ebooks/ElasticSearch中文手册.pdf)
