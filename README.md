@@ -27,6 +27,7 @@ Ebook To Share.
 - CS
     - [深入理解计算机系统.pdf](./ebooks/CS/深入理解计算机系统.pdf)
 - Http
+    - [HTTP权威指南.pdf](./ebooks/Http/HTTP权威指南.pdf)
 - Image
     - [图像处理与分析.pdf](./ebooks/Image/图像处理与分析.pdf)
 - JavaScript
@@ -54,5 +55,4 @@ Ebook To Share.
 - Telecommunication
     - [通信原理.pdf](./ebooks/Telecommunication/通信原理.pdf)
 - Vulkan
-    - [HTTP权威指南.pdf](./ebooks/Vulkan/HTTP权威指南.pdf)
     - [vulkan-tutorial.pdf](./ebooks/Vulkan/vulkan-tutorial.pdf)
