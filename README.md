@@ -49,6 +49,8 @@ Ebook To Share.
     - [high-performance-mysql.pdf](./ebooks/Mysql/high-performance-mysql.pdf)
 - Rust
     - [develop-the-servo-web-browser-engine-using-rust.pdf](./ebooks/Rust/develop-the-servo-web-browser-engine-using-rust.pdf)
+    - [programming.pdf](./ebooks/Rust/programming.pdf)
+    - [tutorial.pdf](./ebooks/Rust/tutorial.pdf)
 - Telecommunication
     - [通信原理.pdf](./ebooks/Telecommunication/通信原理.pdf)
 - Vulkan
