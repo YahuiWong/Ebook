@@ -2,7 +2,11 @@
 
 sed -i '7, $d' ./README.md
 
-for f in `ls ./ebooks`
+for cat in `ls ./ebooks`
 do
-    echo "- [$f](./ebooks/$f)" >> ./README.md
+    echo "- $cat" >> ./README.md
+    for f in `ls "./ebooks/$cat"`
+    do
+        echo "    - [$f](./ebooks/$cat/$f)" >> ./README.md
+    done
 done
