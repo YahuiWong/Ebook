@@ -18,6 +18,7 @@ Ebook To Share.
     - [effective-modern.pdf](./ebooks/CPP/effective-modern.pdf)
     - [effective.pdf](./ebooks/CPP/effective.pdf)
     - [effective-stl.pdf](./ebooks/CPP/effective-stl.pdf)
+    - [modern-design.pdf](./ebooks/CPP/modern-design.pdf)
     - [primer.pdf](./ebooks/CPP/primer.pdf)
     - [principle-practice.pdf](./ebooks/CPP/principle-practice.pdf)
     - [template-guide.pdf](./ebooks/CPP/template-guide.pdf)
