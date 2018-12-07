@@ -8,10 +8,12 @@ Ebook To Share.
     - [introduction-to-algorithms.pdf](./ebooks/Algorithms/introduction-to-algorithms.pdf)
     - [算法导论.pdf](./ebooks/Algorithms/算法导论.pdf)
 - C
+    - [c-standard-library-tutorial.pdf](./ebooks/C/c-standard-library-tutorial.pdf)
     - [deep-in-c-slides.pdf](./ebooks/C/deep-in-c-slides.pdf)
     - [linux-c-api.pdf](./ebooks/C/linux-c-api.pdf)
 - Code
     - [代码整洁之道.pdf](./ebooks/Code/代码整洁之道.pdf)
+    - [编程之美.pdf](./ebooks/Code/编程之美.pdf)
 - CPP
     - [accelerated-.pdf](./ebooks/CPP/accelerated-.pdf)
     - [coding-standards.pdf](./ebooks/CPP/coding-standards.pdf)
