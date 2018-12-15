@@ -6,7 +6,12 @@ Ebook To Share.
 
 - Algorithms
     - [introduction-to-algorithms.pdf](./ebooks/Algorithms/introduction-to-algorithms.pdf)
+    - [剑指Ｏffer名企面试官精讲典型编程题.pdf](./ebooks/Algorithms/剑指Ｏffer名企面试官精讲典型编程题.pdf)
+    - [数据结构与算法分析：C语言描述.pdf](./ebooks/Algorithms/数据结构与算法分析：C语言描述.pdf)
     - [算法导论.pdf](./ebooks/Algorithms/算法导论.pdf)
+    - [算法心得：高效算法的奥秘.pdf](./ebooks/Algorithms/算法心得：高效算法的奥秘.pdf)
+    - [算法设计与分析.pdf](./ebooks/Algorithms/算法设计与分析.pdf)
+    - [编程珠玑.pdf](./ebooks/Algorithms/编程珠玑.pdf)
 - C
     - [c-standard-library-tutorial.pdf](./ebooks/C/c-standard-library-tutorial.pdf)
     - [deep-in-c-slides.pdf](./ebooks/C/deep-in-c-slides.pdf)
