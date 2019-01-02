@@ -14,11 +14,14 @@ Ebook To Share.
     - [编程珠玑.pdf](./ebooks/Algorithms/编程珠玑.pdf)
 - C
     - [c-standard-library-tutorial.pdf](./ebooks/C/c-standard-library-tutorial.pdf)
+    - [C和指针.pdf](./ebooks/C/C和指针.pdf)
     - [deep-in-c-slides.pdf](./ebooks/C/deep-in-c-slides.pdf)
     - [linux-c-api.pdf](./ebooks/C/linux-c-api.pdf)
 - Code
     - [代码整洁之道.pdf](./ebooks/Code/代码整洁之道.pdf)
     - [编程之美.pdf](./ebooks/Code/编程之美.pdf)
+- Container
+    - [每天5分钟玩转Kubernetes.pdf](./ebooks/Container/每天5分钟玩转Kubernetes.pdf)
 - CPP
     - [accelerated-.pdf](./ebooks/CPP/accelerated-.pdf)
     - [coding-standards.pdf](./ebooks/CPP/coding-standards.pdf)
@@ -33,6 +36,8 @@ Ebook To Share.
     - [tutorial.pdf](./ebooks/CPP/tutorial.pdf)
 - CS
     - [深入理解计算机系统.pdf](./ebooks/CS/深入理解计算机系统.pdf)
+- GNU
+    - [Sed与awk.pdf](./ebooks/GNU/Sed与awk.pdf)
 - Http
     - [HTTP权威指南.pdf](./ebooks/Http/HTTP权威指南.pdf)
 - Image
@@ -55,6 +60,8 @@ Ebook To Share.
     - [统计学习方法.pdf](./ebooks/Math/统计学习方法.pdf)
 - Mysql
     - [high-performance-mysql.pdf](./ebooks/Mysql/high-performance-mysql.pdf)
+- Python
+    - [Python核心编程.pdf](./ebooks/Python/Python核心编程.pdf)
 - Rust
     - [develop-the-servo-web-browser-engine-using-rust.pdf](./ebooks/Rust/develop-the-servo-web-browser-engine-using-rust.pdf)
     - [functional-programmers.pdf](./ebooks/Rust/functional-programmers.pdf)
